@@ -102,6 +102,7 @@ An interactive Streamlit app that allows users to:
 ## 👤 Author Details
 
 *Name:* Debasmita Das
+
 Degree: B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)
 
 Institute: Haldia Institute of Technology
@@ -120,4 +121,5 @@ git clone https://github.com/your-username/customer-churn-ann.git
 cd customer-churn-ann
 pip install -r requirements.txt
 streamlit run app.py
+
 
